@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Iron Maiden", 
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/712zA-toRqL._AC_SL1280_.jpg",
+    "genre": "Metal",
+    "title": "Fear of the Dark",
+    "year": "1992"
+  }, 
+  {
+    "artist": "Vittorio Monti",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/VincenzoMonti.jpg",
+    
+    "genre": "Classical",
+    "title": "Csárdás",
+    "year": "1904"
+  }, 
+  {
+    "artist": "The Police",
+    "coverUrl": "https://img.discogs.com/AkZdGBKHsaTKOrpOOF7QMJghiwM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442490-1332561915.jpeg.jpg",
+    "genre": "Rock",
+    "title": "Every Breath You Take",
+    "year": "1983"
+  }, 
+  {
+    "artist": "Stevie Ray Vaughan",
+    "coverUrl": "https://livrariascuritiba.vteximg.com.br/arquivos/ids/1253164-1000-1000/av092977_1.jpg?v=636680062700470000",
+    "genre": "Blues Rock",
+    "title": "Pride and Joy",
+    "year": "1983"
+  }, 
+  {
+    "artist": "AC/DC",
+    "coverUrl": "https://img.discogs.com/swRwxxzx37idNzfdu19Zs6etLsU=/fit-in/464x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1944933-1254146469.jpeg.jpg", 
+    "genre": "Rock",
+    "title": "Highway to Hell",
+    "year": "1979"
+  }
+]
